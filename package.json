@@ -1,0 +1,10 @@
+{
+  "name": "react-native-filestack",
+  "version": "0.0.1",
+  "description": "FileStack implementation for react-native",
+  "main": "index.js",
+  "repository": "git@github.com:toystars/react-native-filestack.git",
+  "author": "Mustapha Baabtunde <toystars2008@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
