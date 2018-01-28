@@ -3,8 +3,21 @@
   "version": "0.0.1",
   "description": "FileStack implementation for react-native",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": "git@github.com:toystars/react-native-filestack.git",
-  "author": "Mustapha Baabtunde <toystars2008@gmail.com>",
+  "author": "Mustapha Babatunde <toystars2008@gmail.com>",
+  "keywords": [
+    "react-native",
+    "file-stack",
+    "FileStack",
+    "react-native-files",
+    "react-native-filestack"
+  ],
   "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2"
+  },
   "private": false
 }
